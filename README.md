@@ -25,7 +25,7 @@ The purpose of this project is to displat nutritional facts of your favorite foo
 ### Executing program
 
 * How to run the program
-* Open up our webpage : https://trigus00.github.io/index.html 
+* Open up our webpage : https://nutrition-calculator.vercel.app
 * Enter your favorite food or you food curiosity 
 * Displays Nutritional Facts of the item you search: Calories,Sodium,Total,Fat,Saturated,Fat,Cholesterol,Carbohydrates,Fiber,Sugar,Protein and Potassium
 ```
